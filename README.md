@@ -22,10 +22,8 @@
 <!-- Project Description -->
 
 ## 📖 bookstorereact<a name="about-project"></a>
-This project is about setting up the foundations for my Bookstore website.<br/> 
-I will create the user interface using React.<br/>
-React Router V6 is installed and create-react-app.
-<br/>
+This part of the project is about setting up a Redux Store.<br/>I will create a slice to save state and reducers.<br/>
+The objective of this project is to understand the concept of state management and use store, actions, and reducers in React.<br/>
 
 ## 🛠 Built With <a name="built-with"></a> 
 
@@ -37,6 +35,7 @@ React Router V6 is installed and create-react-app.
 <li><a href="https://react.dev/">React</a></li>
 <li><a href="https://github.com/microverseinc/linters-config/tree/master/react-redux">Linters for React & Redux</a></li>
 <li><a href="https://reactrouter.com/en/main">React Router Dom</a></li>
+<li><a href="https://redux-toolkit.js.org/tutorials/quick-start">Redux Toolkit</a></li>
 </ul><br/>
 </details>
 
@@ -56,6 +55,7 @@ React Router V6 is installed and create-react-app.
 - **Understand how to use useState and useEffect methods**📍
 - **Understand the usage of React-Router-DOM**📍
 - **Understand the usage of styles in a react-app**📍
+-**Understand the usage of Redux**📍
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +91,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/IvonneBenitesRodriguez/mathmagicians.git
+  git clone git@github.com:myaccount/IvonneBenitesRodriguez/BookstoreReact.git
 ```
 
 7) Create a featured branch besides main branch :
@@ -126,6 +126,10 @@ d) To create a react app :
 e) For using react-router-dom:
 ```
   npm install react-router-dom
+```
+f) For using react-redux:
+```
+  npm install @reduxjs/toolkit react-redux
 ```
 
 ## Usage
