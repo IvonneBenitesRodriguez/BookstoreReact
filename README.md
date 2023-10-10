@@ -166,9 +166,9 @@ You can deploy this project using:
 ## 👥 Authors <a name="authors"></a>
 👩🏽‍💻🌸 **Author**
 
-- GitHub: @IvonneBenitesRodriguez
-- Twitter: @IvonneBenitesR
-- LinkedIn: LinkedIn
+- GitHub: [@IvonneBenitesRodriguez](https://github.com/IvonneBenitesRodriguez)
+- Twitter: [@IvonneBenitesR](https://twitter.com/IvonneBenitesR)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
