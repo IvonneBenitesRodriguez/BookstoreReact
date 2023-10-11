@@ -22,8 +22,9 @@
 <!-- Project Description -->
 
 ## 📖 bookstorereact<a name="about-project"></a>
-This part of the project is about setting up a Redux Store.<br/>I will create a slice to save state and reducers.<br/>
-The objective of this project is to understand the concept of state management and use store, actions, and reducers in React.<br/>
+This part of the project is about using Redux Store to display books.<br/>I will implement react-redux to connect my store.<br/>
+The objective of this project is to understand the concept of state management and use store, actions, and reducers in React
+and **connect React and Redux**.<br/>
 
 ## 🛠 Built With <a name="built-with"></a> 
 
@@ -56,6 +57,8 @@ The objective of this project is to understand the concept of state management a
 - **Understand the usage of React-Router-DOM**📍
 - **Understand the usage of styles in a react-app**📍
 -**Understand the usage of Redux**📍
+-**Understand and learn how to connect React and Redux**📍
+-**Understand and learn how to use Redux Store to display items**📍
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
