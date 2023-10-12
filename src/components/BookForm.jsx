@@ -12,7 +12,8 @@ const BookForm = () => {
     const newBook = {
       title,
       author,
-      id: Date.now().toString(),
+      item_id: Date.now().toString(),
+      category: 'under construction',
     };
 
     dispatch(addBook(newBook));
