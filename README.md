@@ -22,9 +22,8 @@
 <!-- Project Description -->
 
 ## 📖 bookstorereact<a name="about-project"></a>
-This part of the project is about using Redux Store to display books.<br/>I will implement react-redux to connect my store.<br/>
-The objective of this project is to understand the concept of state management and use store, actions, and reducers in React
-and **connect React and Redux**.<br/>
+This part of the project is about connecting an existing API via 
+**Redux** and use the data to display elements in a UI.</br>
 
 ## 🛠 Built With <a name="built-with"></a> 
 
@@ -37,6 +36,7 @@ and **connect React and Redux**.<br/>
 <li><a href="https://github.com/microverseinc/linters-config/tree/master/react-redux">Linters for React & Redux</a></li>
 <li><a href="https://reactrouter.com/en/main">React Router Dom</a></li>
 <li><a href="https://redux-toolkit.js.org/tutorials/quick-start">Redux Toolkit</a></li>
+<li><a href="https://microverse.notion.site/Bookstore-API-51ea269061f849118c65c0a53e88a739">BookStore API</a></li>
 </ul><br/>
 </details>
 
@@ -59,6 +59,7 @@ and **connect React and Redux**.<br/>
 -**Understand the usage of Redux**📍
 -**Understand and learn how to connect React and Redux**📍
 -**Understand and learn how to use Redux Store to display items**📍
+-**Connect our React&Redux app to an external API**📍
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,7 +179,7 @@ You can deploy this project using:
 <!--Future Features-->
 
 ## 🔭 Future Features <br/>
- - [] - I will add texts and backgrounds to my site.
+ - [] - I will add styles to the site.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
