@@ -22,8 +22,9 @@
 <!-- Project Description -->
 
 ## 📖 bookstorereact<a name="about-project"></a>
-This part of the project is about connecting an existing API via 
-**Redux** and use the data to display elements in a UI.</br>
+This part of the project is about adding the style to our 
+application named bookstorereact. Sometimes, we need to
+create new JSX elements for it.</br>
 
 ## 🛠 Built With <a name="built-with"></a> 
 
@@ -37,6 +38,7 @@ This part of the project is about connecting an existing API via
 <li><a href="https://reactrouter.com/en/main">React Router Dom</a></li>
 <li><a href="https://redux-toolkit.js.org/tutorials/quick-start">Redux Toolkit</a></li>
 <li><a href="https://microverse.notion.site/Bookstore-API-51ea269061f849118c65c0a53e88a739">BookStore API</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
 </ul><br/>
 </details>
 
@@ -60,6 +62,7 @@ This part of the project is about connecting an existing API via
 -**Understand and learn how to connect React and Redux**📍
 -**Understand and learn how to use Redux Store to display items**📍
 -**Connect our React&Redux app to an external API**📍
+-**Add the styles and create new JSX elements**📍
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +182,7 @@ You can deploy this project using:
 <!--Future Features-->
 
 ## 🔭 Future Features <br/>
- - [] - I will add styles to the site.
+ - [] - I will add a section named delivery to the site.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
