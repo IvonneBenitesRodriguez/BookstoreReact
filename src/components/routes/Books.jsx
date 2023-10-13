@@ -3,7 +3,7 @@ import '../../App.css';
 
 const Home = () => (
   <div>
-    <h1>Bookstore</h1>
+    <h1>Bookstore CMS</h1>
   </div>
 
 );
