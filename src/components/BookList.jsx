@@ -18,7 +18,7 @@ const BookList = () => {
   };
 
   return (
-    <div>
+    <div className="container">
       {(books ?? []).map((book) => (
         <BookIndividual key={book.item_id} book={book} onDelete={handleDelete} />
       ))}
